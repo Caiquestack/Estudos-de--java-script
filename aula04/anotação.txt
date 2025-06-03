@@ -1,0 +1,53 @@
+        Indentificadores:
+ 
+ * Podem começar com LETRA, $ ou _;
+
+ *Não podem começar com números;
+
+ *É popssível usar /*LETRAS*/ ou /*NÚMEROS*/;
+
+ *é possível usar /*ACENTOS*/ e /*SÍMBOLOS*/;
+
+ * Não podem conter /*ESPAÇOS*/;
+
+ * Não podem ser /*PALAVRAS RESERVADAS*/;
+
+        Dicas:
+
+* Maisculas e minúsculas fazem a diferemnça;
+
+* tente escolher nomes coerentes para as variáveis;
+
+*Evite se tornar um 'programador alfabeto (a,b,c,d,f,g)' 
+ou um progaramador contador;
+
+
+
+        type number:
+
+* 5; 18;-12; 0.5; -15.9; 3.14; 8.0;
+
+        type boolean:
+
+* true ; false;
+
+        type string:
+
+* "Googles"; 'JavaScript'; `Maria`;
+
+
+        Data Types:
+
+    typeof=>
+
+*number:
+    =>infinity
+    =>NaN
+*string
+*boolean
+*null => nulo
+*undefined=>Uma variável que não teve um valor atribuído é do tipo undefined .
+*Object: entre [], e entre {}, sera um objeto.
+    =>Array=>  Os arrays são objetos que podem conter valores de diferentes
+     tipos e são indexados de forma que cada elemento seja acessível por um número. 
+*function=> função, tipo um comando.
